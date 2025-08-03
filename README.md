@@ -3,7 +3,7 @@ Batch process wireguard CONF files to change DNS and ALLOWED IP lines
 ___________________________________
 
 Made this simple utility to batch process a folder with CONF files  
-Copy code to a ps1 file  
+Copy code to a ps1 file  / Download ps1 file and execute (admin rights not needed but must have read/write to the folder with your conf files)   
 Select the folder containing your CONF files  
 DNS = Enter your desired DNS servers - comma separated - you can include 'search domain' here as well - i.e. 1.1.1.1,4.2.2.2,ad.localdomain.local   
 Allowed IP= change this from 0.0.0.0/0 to your local subnet(s) - comma separated   
