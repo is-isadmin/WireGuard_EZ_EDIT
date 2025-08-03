@@ -19,12 +19,12 @@ No Ubiquitu - I don't want to tunnel ALL traffic (0.0.0.0/0) over the vpn !!!
 
 ## ☕ Groveling for Change ##  
 
-If you save a ton of time I would appreciate a nice comment on the page you found it and/or  [buying me a coffee](https://www.buymeacoffee.com/is-isadmin)    
+If you save a ton of time I would appreciate a nice comment on the page you found it and/or  [buying me a coffee](https://www.buymeacoffee.com/infinitysolutions)    
 it helps me pay for things i need like electricity !!!     
    
 TYSM !!!!         
    
 Here is a fancy button to push as well:   
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-blue)](https://www.buymeacoffee.com/is-isadmin)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-blue)](https://www.buymeacoffee.com/infinitysolutions)
 
